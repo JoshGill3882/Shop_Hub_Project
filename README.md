@@ -15,7 +15,7 @@
   - These fields must match that of your root user within your Database
   - This can normally be located when the connection to your database server is made
 - In the root directory for the project, open a command prompt
-- Run the command "gradle build" to create an executable version of the main script files
+- Run the command "gradlew build" to create an executable version of the main script files
 - Then, run the command "java -jar "build/libs/ClientProject-0.0.1-SNAPSHOT.jar""
 - The server is now running, and can be accessed using the url "localhost:5000"
 - To close the server, simply press "CONTROL + C" in the command prompt
